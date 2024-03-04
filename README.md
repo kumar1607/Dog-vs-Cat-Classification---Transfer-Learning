@@ -10,8 +10,8 @@ This project implements a deep learning model for classifying images of dogs and
 Python: As the primary programming language.
 TensorFlow/Keras: For building and training the deep learning model.
 NumPy: For numerical computations and data manipulation.
-Matplotlib/Seaborn : For data visualization .
-OpenCV : For image processing tasks .
+Matplotlib/Seaborn: For data visualization.
+OpenCV: For image processing tasks.
 
 # Algorithm:
 
@@ -20,9 +20,11 @@ Transfer Learning: The project employs the MobileNet V2 model, which is pre-trai
 
 # Results:
 Test Loss = 0.0812455490231514
+
 Test Accuracy = 0.9775000214576721
 
 # potential enhancements 
 
-1.Using data augmentation techniques for increased dataset diversity.
-2.Implementing hyperparameter tuning for optimization.
+1. Using data augmentation techniques for increased dataset diversity.
+
+2. Implementing hyperparameter tuning for optimization.
